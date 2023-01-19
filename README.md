@@ -11,7 +11,7 @@
 - 📫 How to contact me: jliebanadelgado@gmail.com
 
 <div align="left">
-    <h3>⚒️ Languages and Tools:</h3>
+    <h3>⚒👨🏻‍💻 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50">
