@@ -1,8 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"width="200" />
     <h1 align="center">Hi!👋 I'm Jose Antonio Liebana</h1>
-    <h3 align="center">I am currently a DAW (Web Application Development) student at the Instituto La Salle Gràcia,
-         but I am focused on learning to Develop Multiplatform Applications</h3>
+    <h3 align="center"> Second year student of DAM (Cross Platform Application Development) </h3>
 </div>
 
 ### 📖 About Me :
