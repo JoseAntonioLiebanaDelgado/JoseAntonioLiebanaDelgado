@@ -20,6 +20,4 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="CSS" alt="CSS" width="50" height="50">
 
-      
-    </div>
-</div>
+  </div>
