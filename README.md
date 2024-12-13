@@ -5,7 +5,7 @@
 
 ### 📖 About Me :
 
-- 🌱 I am currently learning Java, Swift, Kotlin, MySQL, HTML5, CSS and PHP.
+- 🌱 I am currently learning Java, Swift, Kotlin, MySQL, HTML5, CSS and PHP. 
 - 📫 How to contact me: jliebanadelgado@gmail.com
 
 <div align="left">
