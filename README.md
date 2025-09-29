@@ -5,7 +5,9 @@
 
 ### 📖 About Me :
 
-- 🌱 I am currently learning Java, Swift, Kotlin, MySQL, HTML5, CSS and PHP. 
+- 🌱 Passionate about technology, currently transitioning from QA to Software Development.  
+Skilled in **Java, PHP, JavaScript, SQL, Kotlin, Swift (iOS), Python, C#, HTML, CSS** and with experience in **Cypress** for test automation.  
+Always learning and building projects to improve my skills. 
 - 📫 How to contact me: jliebanadelgado@gmail.com
 
 <div align="left">
