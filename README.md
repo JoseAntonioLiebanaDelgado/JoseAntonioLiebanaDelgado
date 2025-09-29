@@ -36,6 +36,14 @@
 ---
 
 ### 📌 Featured Projects
-- [Gestor de Archivos en PHP](link_al_repo) – Console app to manage files and directories.  
-- [Agenda en Kotlin](link_al_repo) – Mobile app demo to manage contacts.  
-- [CRUD Web en PHP/MySQL](link_al_repo) – CRUD app with DB connection.
+- 🎮 [Asteroids Game – Phaser + TypeScript](https://github.com/JoseAntonioLiebanaDelgado/Asteroids-game-phaser)  
+  Classic asteroid-shooting game built with **TypeScript and Phaser**.
+
+- 🎬 [Java Swing FilmVault](https://github.com/JoseAntonioLiebanaDelgado/JavaSwing_FilmVault)  
+  Desktop app in **Java Swing** to manage a movie library. *(Work in progress)*
+
+---
+
+### 📂 More Repositories
+You can also check my other practice repositories where I learned and improved different technologies:  
+👉 [See all repositories](https://github.com/JoseAntonioLiebanaDelgado?tab=repositories)
