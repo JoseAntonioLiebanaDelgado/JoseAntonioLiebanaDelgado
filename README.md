@@ -1,23 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <h1>🚀 Junior Software Developer | QA Engineer</h1>
+  <h1>👨🏻‍💻 QA Engineer | Junior Software Developer</h1>
 </div>
 
 ---
 
 ### 📖 About Me
-- 🌱 Passionate about technology, currently transitioning from QA to Software Development.  
-- Skilled in **Java, PHP, JavaScript, SQL, Kotlin, Swift (iOS), Python, C#, HTML, CSS** and with experience in **Cypress** for test automation.  
-- Always learning and building projects to improve my skills.  
+- 💡 **QA Engineer** with 2+ years of experience in **manual testing**, focused on functional validation, bug analysis, and interface verification in **agile environments** (Scrum, Kanban).  
+- 🚀 Currently expanding my skills towards **QA Automation**, learning and applying tools such as **Cypress, Postman, and JavaScript** to automate test flows and improve validation processes.  
+- 🔧 Strong technical foundation with knowledge in **Java, PHP, JavaScript, SQL, Kotlin, Swift (iOS), Python, C#, HTML, and CSS**, which helps me understand product logic and contribute with a broader software perspective.  
+- 🌱 Passionate about technology, continuous learning, and delivering high-quality software.
 
-📫 How to reach me:  
+📫 **How to reach me:**  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseantonio-liebana)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JoseAntonioLiebanaDelgado)  
 📧 jliebanadelgado@gmail.com  
 
 ---
 
-### 👨🏻‍💻 Languages and Tools
+### 🧰 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
@@ -36,14 +37,14 @@
 ---
 
 ### 📌 Featured Projects
-- 🎮 [Asteroids Game – Phaser + TypeScript](https://github.com/JoseAntonioLiebanaDelgado/Asteroids-game-phaser)  
-  Classic asteroid-shooting game built with **TypeScript and Phaser**.
+- 🎮 [**Asteroids Game – Phaser + TypeScript**](https://github.com/JoseAntonioLiebanaDelgado/Asteroids-game-phaser)  
+  Classic asteroid-shooting game built with **TypeScript** and **Phaser**.
 
-- 🎬 [Java Swing FilmVault](https://github.com/JoseAntonioLiebanaDelgado/JavaSwing_FilmVault)  
-  Desktop app in **Java Swing** to manage a movie library. *(Work in progress)*
+- 🎬 [**Java Swing FilmVault**](https://github.com/JoseAntonioLiebanaDelgado/JavaSwing_FilmVault)  
+  Desktop app in **Java Swing** for managing a movie library. *(Work in progress)*
 
 ---
 
 ### 📂 More Repositories
-You can also check my other practice repositories where I learned and improved different technologies:  
-👉 [See all repositories](https://github.com/JoseAntonioLiebanaDelgado?tab=repositories)
+Check out my other repositories where I experiment, learn, and improve my technical skills:  
+👉 [**See all repositories**](https://github.com/JoseAntonioLiebanaDelgado?tab=repositories)
