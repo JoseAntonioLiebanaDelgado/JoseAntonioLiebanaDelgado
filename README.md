@@ -1,15 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <h1>👨🏻‍💻 QA Engineer | Junior Software Developer</h1>
+  <h1>🧪 QA Engineer | Focused on Software Quality</h1>
 </div>
 
 ---
 
 ### 📖 About Me
-- 💡 **QA Engineer** with 2+ years of experience in **manual testing**, focused on functional validation, bug analysis, and interface verification in **agile environments** (Scrum, Kanban).  
-- 🚀 Currently expanding my skills towards **QA Automation**, learning and applying tools such as **Cypress, Postman, and JavaScript** to automate test flows and improve validation processes.  
-- 🔧 Strong technical foundation with knowledge in **Java, PHP, JavaScript, SQL, Kotlin, Swift (iOS), Python, C#, HTML, and CSS**, which helps me understand product logic and contribute with a broader software perspective.  
-- 🌱 Passionate about technology, continuous learning, and delivering high-quality software.
+- 💡 **QA Engineer** with 2+ years of experience in **manual testing**, specialized in **functional validation**, **bug analysis**, and **UI verification** in **agile environments** (Scrum, Kanban).  
+- 🧩 Experienced in the full **software testing lifecycle**, from requirement review to final delivery, ensuring high-quality releases.  
+- 🔧 Technical background with knowledge in **Java, JavaScript, PHP, SQL, HTML, and CSS**, which helps me better understand product logic and collaborate effectively with technical teams.  
+- 🌱 Passionate about technology, attention to detail, and continuously improving processes and testing practices.
 
 📫 **How to reach me:**  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseantonio-liebana)  
@@ -21,17 +21,14 @@
 ### 🧰 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="50" height="50"/>
 </div>
 
 ---
@@ -46,5 +43,5 @@
 ---
 
 ### 📂 More Repositories
-Check out my other repositories where I experiment, learn, and improve my technical skills:  
+Explore my other repositories where I practice, learn, and improve my technical and testing skills:  
 👉 [**See all repositories**](https://github.com/JoseAntonioLiebanaDelgado?tab=repositories)
