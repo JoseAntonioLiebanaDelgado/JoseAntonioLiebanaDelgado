@@ -7,9 +7,9 @@
 
 ### 📖 About Me
 - 💡 **QA Engineer** with 2+ years of experience in **manual testing**, specialized in **functional validation**, **bug analysis**, and **UI verification** in **agile environments** (Scrum, Kanban).  
-- 🧩 Experienced in the full **software testing lifecycle**, from requirement review to final delivery, ensuring high-quality releases.  
-- 🔧 Technical background with knowledge in **Java, JavaScript, PHP, SQL, HTML, and CSS**, which helps me better understand product logic and collaborate effectively with technical teams.  
-- 🌱 Passionate about technology, attention to detail, and continuously improving processes and testing practices.
+- 🧩 Experienced throughout the **software testing lifecycle**, from requirement review to final delivery, ensuring high-quality releases.  
+- 🔧 Technical background with knowledge in **Java, JavaScript, PHP, SQL, HTML, and CSS**, and familiarity with **Kotlin, Swift (iOS), and C#**, which helps me better understand product logic and collaborate effectively with technical teams.  
+- 🌱 Passionate about technology, attention to detail, and continuously improving testing processes and software quality.
 
 📫 **How to reach me:**  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseantonio-liebana)  
@@ -23,6 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
