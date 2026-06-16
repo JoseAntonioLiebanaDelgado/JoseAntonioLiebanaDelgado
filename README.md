@@ -6,10 +6,11 @@
 ---
 
 ### 📖 About Me
-- 💡 **QA Engineer** with 2+ years of experience in **manual testing**, specialized in **functional validation**, **bug analysis**, and **UI verification** in **agile environments** (Scrum, Kanban).  
-- 🧩 Experienced throughout the **software testing lifecycle**, from requirement review to final delivery, ensuring high-quality releases.  
-- 🔧 Technical background with knowledge in **Java, PHP, JavaScript, SQL, Kotlin, Swift (iOS), Python, C#, HTML, and CSS**, which helps me better understand product logic and contribute with a broader software perspective.  
-- 🌱 Passionate about technology, attention to detail, and continuously improving testing processes and software quality.
+
+* 💡 **QA Engineer** with **3 years of experience** in **functional validation** of web and mobile applications within **Agile environments** (Scrum, Kanban).
+* 🎓 Background in **Multiplatform Application Development (DAM)**, with knowledge of **Java, JavaScript, PHP, SQL, Kotlin, SwiftUI** and other software development technologies.
+* 🧩 Experienced working closely with **development, product and design teams**, participating in **functional analysis**, **E2E validations**, **bug management** and **release validation** processes.
+* 🚀 Interested in growing towards **QA Automation and software development**, combining functional expertise with technical knowledge and a strong willingness to learn and take on new challenges.
 
 📫 **How to reach me:**  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseantonio-liebana)  
@@ -23,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>
