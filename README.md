@@ -5,25 +5,19 @@
 
 ---
 
-## 📖 About Me
+# 👋 About Me
 
-- 🧪 **QA Engineer** with **3 years of experience** in functional testing of web and mobile applications within **Agile environments** (Scrum / Kanban).
-- 🎓 Higher Technician in **Multiplatform Application Development (DAM)**.
-- 🤝 Experienced working closely with **developers, product managers and designers**, performing **functional analysis, end-to-end validation, bug reporting and release validation**.
-- 🚀 Currently learning **QA Automation** with **Playwright, TypeScript, Git and GitHub**, building personal projects to strengthen my automation skills and expand my technical profile.
+QA Engineer with **3 years of experience** in testing web and mobile applications within **Agile environments (Scrum / Kanban)**.
 
-📫 **Contact**
+I have a background in **Multiplatform Application Development (DAM)** and I'm currently expanding my technical skills by learning **QA Automation** with **Playwright, TypeScript, Git and GitHub**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseantonio-liebana)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JoseAntonioLiebanaDelgado)
-
-📧 **jliebanadelgado@gmail.com**
+My goal is to combine my manual testing experience with automation to build reliable and maintainable test solutions.
 
 ---
 
-## 🧰 Technologies & Tools
+# 🛠️ Technologies & Tools
 
-### Testing
+## QA
 
 - Playwright
 - Jira
@@ -33,51 +27,72 @@
 - Git
 - GitHub
 
-### Programming Languages
+## Programming Languages
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45"/>
 </div>
 
 ---
 
-## 📌 QA Automation Learning Journey
+# 📂 Featured Projects
 
-This GitHub documents my transition from **Manual QA** to **QA Automation**.
+## 🧪 [Playwright Automation](https://github.com/JoseAntonioLiebanaDelgado/playwright-automation)
 
-Here you'll find:
+Personal learning repository focused on QA Automation with Playwright.
 
-- ✅ Playwright practice projects
-- ✅ UI automation examples
-- ✅ Learning exercises
-- ✅ Personal experiments
-- ✅ Future API and E2E automation projects
+Current topics:
 
-The goal is to build a solid automation portfolio while documenting my learning process step by step.
-
----
-
-## 📂 Repositories
-
-👉 **Playwright Basics**
-- My Playwright learning repository where I practice automation concepts step by step.
-
-👉 **Asteroids Game – Phaser + TypeScript**
-- Personal project developed with TypeScript and Phaser.
-
-👉 **Java Swing FilmVault**
-- Desktop application developed with Java Swing.
+- ✅ Playwright fundamentals
+- ✅ UI automation
+- ✅ TypeScript basics
+- ✅ Git & GitHub workflow
+- ✅ GitHub Actions (CI)
+- 🚧 API Testing
+- 🚧 Page Object Model (POM)
+- 🚧 End-to-End Automation
 
 ---
 
-⭐ **Currently focused on learning Playwright, TypeScript and QA Automation.**
+## 🎮 [Asteroids Game – Phaser + TypeScript](https://github.com/JoseAntonioLiebanaDelgado/Asteroids-game-phaser)
+
+Classic arcade game developed with **TypeScript** and **Phaser**.
+
+---
+
+## 🎬 [Java Swing FilmVault](https://github.com/JoseAntonioLiebanaDelgado/JavaSwing_FilmVault)
+
+Desktop application developed with **Java Swing**.
+
+---
+
+# 📈 Current Focus
+
+Currently learning:
+
+- Playwright
+- TypeScript
+- Git
+- GitHub
+- GitHub Actions
+- Test Automation Best Practices
+
+---
+
+# 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseantonio-liebana)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JoseAntonioLiebanaDelgado)
+
+📧 **jliebanadelgado@gmail.com**
