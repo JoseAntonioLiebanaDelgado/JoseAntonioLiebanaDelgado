@@ -8,7 +8,7 @@
 - 🧪 **QA Engineer** with **3 years of experience** in functional testing of web and mobile applications within **Agile environments** (Scrum / Kanban).
 - 🎓 Higher Technician in **Multiplatform Application Development (DAM)**.
 - 🤝 Experienced working closely with **development, product and design teams**, participating in **functional analysis**, **E2E validations**, **bug management** and **release validation**.
-- 🚀 Currently learning **QA Automation** with **Playwright, TypeScript, Git, GitHub and GitHub Actions**, building a personal portfolio step by step.
+- 🚀 Currently learning **QA Automation** with **Playwright, TypeScript, Git, GitHub and GitHub Actions**, building a personal portfolio step by step. 
 
 ---
 
