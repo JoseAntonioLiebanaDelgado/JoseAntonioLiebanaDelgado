@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Technologies & Tools 
 
 ### QA & Testing
 
